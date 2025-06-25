@@ -1,1 +1,1 @@
-_114
+_115=Fixed Tooltips, Fixed Lumi Encounter Rate, Fixed Affection Gains
