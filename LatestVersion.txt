@@ -1,1 +1,1 @@
-_115=Fixed Tooltips, Fixed Lumi Encounter Rate, Fixed Affection Gains
+_116=New Innocode? Yep, and Race Selection in Character Creation, more to come
