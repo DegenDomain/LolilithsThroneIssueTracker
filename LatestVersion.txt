@@ -1,1 +1,1 @@
-_116=New Innocode? Yep, and Race Selection in Character Creation, more to come
+_117=Fixed age preferences not working, fixed multiple errors, added manticore species
