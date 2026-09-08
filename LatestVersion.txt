@@ -1,1 +1,1 @@
-_117=Fixed age preferences not working, fixed multiple errors, added manticore species
+_118=Fixed mod options not saving, fixed long standing relationship reversion on save load
