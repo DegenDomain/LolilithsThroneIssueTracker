@@ -1,1 +1,1 @@
-_118=Fixed mod options not saving, fixed long standing relationship reversion on save load
+_119=8 bugfixes, fixed some jobs not being able to be set, fixed new character equipment
