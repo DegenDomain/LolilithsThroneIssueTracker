@@ -1,1 +1,1 @@
-_119=8 bugfixes, fixed some jobs not being able to be set, fixed new character equipment
+_120=Inno update to 0.4.11.9, added virginity rates menu, and more.
