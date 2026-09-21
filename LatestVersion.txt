@@ -1,1 +1,1 @@
-_122=Performance, Fixes, new Tussy Content (Penetration)
+_123=Fixed New Game (import), Fixed Virginity Rates (for real this time), money exploit fix
