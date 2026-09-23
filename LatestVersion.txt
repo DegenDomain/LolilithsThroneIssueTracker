@@ -1,1 +1,1 @@
-_123=Fixed New Game (import), Fixed Virginity Rates (for real this time), money exploit fix
+_124=Fixed Virginity Rates (believe me, I'm just as doubtful), and more
