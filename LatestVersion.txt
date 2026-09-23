@@ -1,1 +1,1 @@
-_124=Fixed Virginity Rates (believe me, I'm just as doubtful), and more
+_125=Lumi has spawned in the south corner of dominion, and fixed a serious bug, she can also be invited as a guest in your home
