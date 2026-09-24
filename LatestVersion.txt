@@ -1,1 +1,1 @@
-_125=Lumi has spawned in the south corner of dominion, and fixed a serious bug, she can also be invited as a guest in your home
+_126=Cecilia now can be encountered in fields 8% of the time, and fixed 3 errors, and virginity rates applying to player.
